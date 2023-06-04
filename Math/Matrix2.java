@@ -1,5 +1,5 @@
 /**
-* Helios (TM) 3D Engine (Java): 2 x 2 Matrix Class
+* 2 x 2 Matrix Class
 * Copyright (C) DeRemee Systems, IXE Electronics LLC
 * Portions copyright IXE Electronics LLC, Republic Robotics, FemtoLaunch, FemtoSat, FemtoTrack, Weland
 * This work is made available under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
